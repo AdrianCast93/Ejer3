@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Recetas (Tabla+)>
+<!ELEMENT Tabla (Titulo,uno,dos,tres,cuatro,cinco,seis,siete)>
+
+
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT uno (#PCDATA)>
+<!ELEMENT dos (#PCDATA)>
+<!ELEMENT tres (#PCDATA)>
+<!ELEMENT cuatro (#PCDATA)>
+<!ELEMENT cinco (#PCDATA)>
+<!ELEMENT seis (#PCDATA)>
+<!ELEMENT siete (#PCDATA)>
+
