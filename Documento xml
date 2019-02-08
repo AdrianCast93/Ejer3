@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Recetas SYSTEM "Validacion.dtd">
+<Recetas>
+<Tabla>
+
+<Titulo>Nuestras mejores recetas</Titulo>
+<uno>Albondigas en salsa</uno>
+<dos>Cómo hacer churros></dos>
+<tres>Estofado de ternera</tres>
+<cuatro>Guacamole mexicano</cuatro>
+<cinco>Lasaña de carne</cinco>
+<seis>Lentejas de chorizo</seis>
+<siete>Masa de pizza italiana</siete>
+</Tabla>
+
+
+<Tabla>
+
+<uno>Las mejores recetas de semana santa</uno>
+<dos>Postre de Carnaval</dos>
+<tres> Postres de semana santa</tres>
+<cuatro>Recetas de pollo</cuatro>
+<cinco>Recetas de San Valentín</cinco>
+<seis>Recetas fáciles y rápidas</seis>
+<siete>Recetas para bebés</siete>
+</Tabla>
+
+
+<Tabla>
+<uno>Cómo hacer arroz blanco</uno>
+<dos>Cómo hacer crema pastelera</dos>
+<tres>Mona de Pascua</tres>
+<cuatro>Musaka griega</cuatro>
+<cinco>Orejas de Carnaval</cinco>
+<seis>Pollo asado</seis>
+<siete>Potaje de garbanzos y bacalao</siete>
+</Tabla>
+</Recetas>
